@@ -1,4 +1,8 @@
-
+/*
+ * Author: Prapunja Pokhrel
+ * Purpose: Recovers JPEG image
+ * Language:  C
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
